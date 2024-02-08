@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I watch anime and read manga.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
