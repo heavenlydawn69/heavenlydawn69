@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **react, vue and gsap**
+- 💬 Ask me about **python, django and gsap**
 
 - 📫 How to reach me **mershkerproman@gmail.com**
 
