@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heavenlydawn69" alt="heavenlydawn69" /></a> </p>
 
-- 🔭 I’m currently working on **a project for face detection tool**
+- 🔭 I’m currently working on **an Api project.**
 
 - 🌱 I’m currently learning **Rust**
 
